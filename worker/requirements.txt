@@ -1,0 +1,4 @@
+whisperx>=3.3,<4
+transformers>=4.44,<5
+sentencepiece>=0.2,<1
+accelerate>=0.34,<2
